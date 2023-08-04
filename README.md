@@ -1,9 +1,5 @@
 # Image Downloader
 
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-
-## [中文说明](https://github.com/QianyanTech/Image-Downloader/blob/master/README_zh.md)
-
 ## 1. Introdoction
 
 Crawl and download images using Selenium or API
@@ -46,8 +42,3 @@ usage: image_downloader.py [-h] [--engine {Google,Bing,Baidu}]
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=QianyanTech/Image-Downloader&type=Date)](https://star-history.com/#QianyanTech/Image-Downloader&Date)
-
-## License
-
-+ MIT License
-+ 996ICU License
